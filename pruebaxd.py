@@ -1,4 +1,4 @@
 # Código simple en Python
 
 print("Hola Tizi y Bruno!")
-print("¿Cómo está el clima hoy?")
+print("alguien me da una manaodssds??")
